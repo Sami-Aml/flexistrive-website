@@ -320,6 +320,7 @@ sections:
       self:
         alignItems: center
     type: GenericSection
+    elementId: FlexiStrive
   - title: Divider
     colors: bg-light-fg-dark
     styles:
