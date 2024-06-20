@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Privacy Policy
       color: text-dark
-    subtitle: Be in good company
+    subtitle: 'Effective Date: 20/06/2024'
     text: >+
       ### 1. Introduction
 
