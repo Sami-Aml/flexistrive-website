@@ -185,10 +185,11 @@ sections:
     actions:
       - type: Button
         label: Get started
-        url: /
+        url: '#contactUs'
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: 'Contact us to get started '
       - type: Link
         label: Learn about our projects
         url: /
@@ -233,11 +234,12 @@ sections:
       effective.
     actions:
       - label: Get started
-        url: /
+        url: '#contactUs'
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
+        altText: Contact us to get started
       - label: Learn about our projects
         url: /
         showIcon: true
@@ -284,11 +286,12 @@ sections:
       help you succeed in the digital marketplace.
     actions:
       - label: Get started
-        url: /
+        url: '#contactUs'
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
+        altText: Contact us to get started
       - label: Learn about our projects
         url: /
         showIcon: true
@@ -384,20 +387,8 @@ sections:
     subtitle: >-
       We're here to help you succeed. Reach out to us for any inquiries,
       support, or to start your next project with FlexStrive.
-    text: |+
-
-
-      **Address:**
-
-
-      Boulevard Bischoffsheim 39/4
-      1000, Brussels, Belgium |
-
-
-      **Email:**
-
-      ****<contact@flexistrive.com>
-
+    text: |
+      **Email us :** <contact@flexistrive.com>
     badge:
       label: GET IN TOUCH
       color: text-dark
@@ -417,6 +408,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    elementId: contactUs
 seo:
   metaTitle: FlexiStrive - FlexStrive | We Strive to Bring You Greatness
   metaDescription: >-
