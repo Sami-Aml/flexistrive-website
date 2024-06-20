@@ -8,13 +8,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Flexibility is at the Core of What We Do
-    text: >+
+    text: >
       At FlexStrive, we understand that every business is unique. That's why we
-      offer flexible, tailored solutions that adapt to your specific needs.
-      Whether you're looking to enhance your online presence, streamline your
-      operations, or boost your marketing efforts, our team is here to help you
-      achieve your goals with agility and precision.
-
+      offer flexible, tailored solutions that adapt to your specific needs. Our
+      team is here to help you achieve your goals with agility and precision.
     actions:
       - label: Get started
         altText: ''
