@@ -419,7 +419,12 @@ sections:
         textAlign: center
 seo:
   metaTitle: FlexiStrive - FlexStrive
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    Whether it's developing custom applications, websites, and games tailored to
+    meet your specific needs, optimizing your IT infrastructure, creating
+    engaging digital experiences, enhancing your online presence, or engaging
+    with our IT consultancy services and deploying a developer consultant to
+    work on your projects, FlexStrive is here to help you succeed.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
