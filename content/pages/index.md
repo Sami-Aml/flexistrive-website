@@ -234,7 +234,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/FlexStrive_Logo_Small (1).png
+      url: /images/3301602.jpg
       altText: Dope design preview
       type: ImageBlock
     badge:
