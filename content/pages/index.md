@@ -431,6 +431,6 @@ seo:
   socialImage: /images/2989869.jpg
   type: Seo
   metaTags: []
-  addTitleSuffix: true
+  addTitleSuffix: false
 type: PageLayout
 ---
