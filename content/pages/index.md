@@ -67,7 +67,7 @@ sections:
         text: ''
         actions:
           - type: Button
-            label: Get started
+            label: Learn more
             altText: ''
             url: /
             showIcon: false
