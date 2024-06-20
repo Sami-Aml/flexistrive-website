@@ -261,6 +261,17 @@ sections:
         flexDirection: row-reverse
     type: GenericSection
     elementId: FlexStriveConsulting
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - title:
       text: FlexiStrive
       color: text-dark
