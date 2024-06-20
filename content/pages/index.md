@@ -303,7 +303,7 @@ sections:
       type: ImageBlock
     badge:
       label: INCreASE YOUR REACH
-      color: text-primary
+      color: text-dark
       type: Badge
     colors: bg-light-fg-dark
     styles:
