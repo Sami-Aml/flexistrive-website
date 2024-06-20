@@ -420,6 +420,9 @@ sections:
 seo:
   metaTitle: FlexiStrive - FlexStrive
   metaDescription: >-
+    At FlexStrive, we understand that every business is unique. That's why we
+    offer flexible, tailored solutions that adapt to your specific needs. Our
+    team is here to help you achieve your goals with agility and precision.
     Whether it's developing custom applications, websites, and games tailored to
     meet your specific needs, optimizing your IT infrastructure, creating
     engaging digital experiences, enhancing your online presence, or engaging
