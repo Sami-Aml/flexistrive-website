@@ -149,7 +149,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: OUR PROJECTS
+      label: OUR WORK
       color: text-primary
       styles:
         self:
