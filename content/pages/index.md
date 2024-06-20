@@ -214,7 +214,7 @@ sections:
       type: TitleBlock
       text: FlexStrive Studio
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: Game and Application Development
     text: >
       At FlexStrive Studio, we create engaging games and innovative applications
       that captivate users and drive engagement. Our team of developers and
