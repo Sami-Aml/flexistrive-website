@@ -189,6 +189,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: 'Contact us to get started '
       - type: Link
         label: Learn about our projects
         url: /
