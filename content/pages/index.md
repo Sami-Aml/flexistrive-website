@@ -406,7 +406,7 @@ sections:
       text:
         textAlign: center
       self:
-        flexDirection: row
+        flexDirection: row-reverse
         alignItems: center
         justifyContent: center
 seo:
