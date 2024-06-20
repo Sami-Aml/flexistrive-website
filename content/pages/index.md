@@ -405,6 +405,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    elementId: contactUs
 seo:
   metaTitle: FlexiStrive - FlexStrive | We Strive to Bring You Greatness
   metaDescription: >-
