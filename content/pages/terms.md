@@ -9,9 +9,6 @@ sections:
       color: text-dark
     subtitle: 'Last Updated : 20/06/2024'
     text: >
-      ## Terms and Conditions
-
-
       ### 1. Introduction
 
 
@@ -114,7 +111,6 @@ sections:
 
 
       Address: Boulevard Bischoffsheim 39/4, 1000, Brussels, Belgium.
-
 
 
       Email: <contact@flexistrive.com>
