@@ -106,7 +106,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
-            textAlign: left
+            textAlign: center
             justifyContent: center
         type: FeaturedItem
       - title: FlexiStrive Business
