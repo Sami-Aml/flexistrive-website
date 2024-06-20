@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: We strive
+      text: We strive to bring you greatness
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
