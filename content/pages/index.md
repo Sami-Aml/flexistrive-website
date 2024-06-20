@@ -284,7 +284,7 @@ sections:
       help you succeed in the digital marketplace.
     actions:
       - label: Get started
-        url: /
+        url: '#contactUs'
         icon: arrowRight
         iconPosition: right
         style: secondary
