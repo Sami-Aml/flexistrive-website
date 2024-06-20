@@ -113,7 +113,7 @@ sections:
         subtitle: Digital Solutions and Strategies
         text: ''
         image:
-          url: /images/FLEXISTRIVE-01.png
+          url: /images/FLEXISTRIVE-01_100.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
