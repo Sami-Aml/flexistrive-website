@@ -412,6 +412,8 @@ sections:
         flexDirection: row
         alignItems: center
         justifyContent: center
+      subtitle:
+        textAlign: center
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
