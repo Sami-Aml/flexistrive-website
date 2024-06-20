@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: We Strive To Bring You Greatness
+      text: We Strive to Bring You Greatness
       color: text-dark
       type: TitleBlock
     subtitle: Flexibility is at the Core of What We Do
