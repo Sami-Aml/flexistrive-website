@@ -238,6 +238,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
+        altText: Contact us to get started
       - label: Learn about our projects
         url: /
         showIcon: true
