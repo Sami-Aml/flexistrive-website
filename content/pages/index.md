@@ -106,7 +106,7 @@ sections:
           type: ImageBlock
         actions:
           - type: Button
-            label: Learn More
+            label: Learn more
             altText: ''
             url: '#FlexStriveStudio'
             showIcon: false
