@@ -93,10 +93,11 @@ sections:
               borderRadius: x-large
       - title: FlexStrive Studio
         subtitle: Game and Application Development
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          At FlexStrive Studio, we create engaging games and innovative
+          applications that captivate users and drive engagement. Our team of
+          developers and designers work collaboratively to bring your ideas to
+          life, from concept to launch.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
