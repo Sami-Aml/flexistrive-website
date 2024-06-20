@@ -245,7 +245,7 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Business Consulting
+      text: FlexStrive Consulting
       color: text-dark
       type: TitleBlock
     subtitle: IT Consultancy Services
