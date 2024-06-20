@@ -175,7 +175,7 @@ sections:
     title:
       type: TitleBlock
       text: FlexStrive Studio
-      color: text-dark
+      color: text-primary
     subtitle: Game and Application Development
     text: >
       At FlexStrive Studio, we create engaging games and innovative applications
