@@ -59,7 +59,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Discover the diverse range of projects we undertake at FlexStrive
     items:
       - type: FeaturedItem
         title: FlexStrive
