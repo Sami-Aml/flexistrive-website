@@ -418,7 +418,7 @@ sections:
       subtitle:
         textAlign: center
 seo:
-  metaTitle: FlexiStrive - FlexStrive
+  metaTitle: FlexiStrive - FlexStrive | We Strive to Bring You Greatness
   metaDescription: >-
     At FlexStrive, we understand that every business is unique. That's why we
     offer flexible, tailored solutions that adapt to your specific needs. Our
