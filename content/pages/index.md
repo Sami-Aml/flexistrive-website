@@ -362,16 +362,7 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
-    actions:
-      - type: Link
-        label: Send email
-        altText: Send email
-        url: 'mailto:contact@flexistrive.com'
-        showIcon: true
-        icon: mail
-        iconPosition: right
-        style: secondary
-        elementId: ''
+    actions: []
     styles:
       text:
         textAlign: center
