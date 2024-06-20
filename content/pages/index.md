@@ -326,7 +326,7 @@ sections:
           - pr-3
   - title:
       text: Comprehensive Digital Solutions
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
