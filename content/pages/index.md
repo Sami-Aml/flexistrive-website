@@ -72,7 +72,7 @@ sections:
             url: /
             showIcon: true
             icon: arrowRight
-            iconPosition: right
+            iconPosition: left
             style: primary
             elementId: ''
         elementId: null
