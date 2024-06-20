@@ -251,7 +251,7 @@ sections:
       text: FlexiStrive
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: eCommerce Solutions and Digital Strategy
     text: >
       FlexiStrive specializes in helping businesses establish and grow their
       online presence. We offer comprehensive eCommerce solutions, including
