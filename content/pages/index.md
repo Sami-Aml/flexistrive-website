@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: We Strive to Bring You Greatness
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: Flexibility is at the Core of What We Do
     text: >
