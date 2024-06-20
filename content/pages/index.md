@@ -92,7 +92,7 @@ sections:
             self:
               borderRadius: x-large
       - title: FlexStrive Studio
-        subtitle: The Job Stuff
+        subtitle: Game and Application Development
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
