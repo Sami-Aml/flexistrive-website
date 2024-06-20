@@ -216,8 +216,10 @@ sections:
       color: text-dark
     subtitle: Increase your reach
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      At FlexStrive Studio, we create engaging games and innovative applications
+      that captivate users and drive engagement. Our team of developers and
+      designers work collaboratively to bring ideas to life, from concept to
+      launch.
     actions:
       - type: Button
         label: Get started
