@@ -138,7 +138,7 @@ sections:
         actions:
           - type: Button
             label: Learn more
-            altText: ''
+            altText: Learn more about FlexiStrive Business
             url: '#FlexiStrive'
             showIcon: false
             icon: arrowRight
