@@ -19,7 +19,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Flexstrive
+      label: Flex(I)strive
       color: text-primary
       type: Badge
     elementId: ''
