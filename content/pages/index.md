@@ -373,7 +373,7 @@ sections:
     type: DividerSection
   - title:
       text: Contact Us
-      color: text-dark
+      color: text-primary
       type: TitleBlock
       styles:
         self:
