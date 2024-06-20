@@ -198,7 +198,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/FlexStrive_Logo_Small (2).png
       altText: Fun feature preview
     badge:
       type: Badge
