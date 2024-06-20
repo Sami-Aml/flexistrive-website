@@ -428,7 +428,7 @@ seo:
     engaging digital experiences, enhancing your online presence, or engaging
     with our IT consultancy services and deploying a developer consultant to
     work on your projects, FlexStrive is here to help you succeed.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/2989869.jpg
   type: Seo
 type: PageLayout
 ---
