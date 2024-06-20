@@ -79,7 +79,7 @@ sections:
             self:
               borderRadius: x-large
       - title: FlexStrive Studio
-        subtitle: Game and Application Development
+        subtitle: Games and Applications Development
         text: ''
         image:
           url: /images/FlexStrive_Logo_100.png
