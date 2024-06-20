@@ -190,7 +190,7 @@ sections:
         iconPosition: right
         style: secondary
       - type: Link
-        label: See Tutorials
+        label: Learn about our projects
         url: /
         showIcon: true
         icon: arrowRight
