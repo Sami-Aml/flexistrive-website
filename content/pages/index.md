@@ -305,7 +305,7 @@ sections:
       optimizing your IT infrastructure, creating engaging digital experiences,
       or enhancing your online presence, FlexStrive is here to help you succeed.
     badge:
-      label: Key Benefits
+      label: Our Expertise
       color: text-primary
       styles:
         self:
