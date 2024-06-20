@@ -363,7 +363,7 @@ sections:
     actions:
       - type: Link
         label: Send email
-        altText: Play
+        altText: Send email
         url: 'mailto:contact@flexistrive.com'
         showIcon: true
         icon: mail
