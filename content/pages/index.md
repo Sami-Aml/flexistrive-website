@@ -69,7 +69,7 @@ sections:
           - type: Button
             label: Learn more
             altText: ''
-            url: ''
+            url: '#FlexStriveStudio'
             showIcon: false
             icon: arrowRight
             iconPosition: right
