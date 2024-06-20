@@ -20,7 +20,7 @@ sections:
       type: ImageBlock
     badge:
       label: Flex(I)strive
-      color: text-primary
+      color: text-dark
       type: Badge
     elementId: ''
     colors: bg-light-fg-dark
