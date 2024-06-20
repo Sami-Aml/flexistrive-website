@@ -64,10 +64,11 @@ sections:
       - type: FeaturedItem
         title: FlexStrive Consulting
         subtitle: IT Consultancy Services
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Our IT consulting services focus on development and programming. We
+          help businesses leverage technology to achieve their goals by
+          providing expert guidance and hands-on support to ensure your IT
+          systems are efficient and effective.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
