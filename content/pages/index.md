@@ -243,6 +243,7 @@ sections:
     styles:
       self:
         alignItems: center
+    elementId: FlexStriveStudio
   - title:
       text: FlexStrive Consulting
       color: text-dark
