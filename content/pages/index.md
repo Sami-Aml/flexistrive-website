@@ -68,7 +68,7 @@ sections:
         actions:
           - type: Button
             label: Learn more
-            altText: ''
+            altText: Learn more about FlexStrive Consulting
             url: '#FlexStriveConsulting'
             showIcon: false
             icon: arrowRight
