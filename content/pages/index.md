@@ -62,7 +62,7 @@ sections:
     subtitle: Discover the diverse range of projects we undertake at FlexStrive
     items:
       - type: FeaturedItem
-        title: FlexStrive
+        title: FlexStrive Consulting
         subtitle: IT Consultancy Services
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
