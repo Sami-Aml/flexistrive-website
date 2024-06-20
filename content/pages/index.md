@@ -137,7 +137,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
-            textAlign: left
+            textAlign: justify
         type: FeaturedItem
     actions: []
     badge:
