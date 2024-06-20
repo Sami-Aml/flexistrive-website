@@ -294,18 +294,16 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: >+
-      \<div style="text-align: center">FlexStrive is your trusted partner in
-      driving digital transformation and achieving business excellence. Our
-      comprehensive services encompass IT consultancy focused on development and
-      programming, innovative game and application development through
-      FlexStrive Studio, and strategic eCommerce solutions provided by
-      FlexiStrive. We are dedicated to delivering flexible, customized solutions
-      that cater to your unique business needs, ensuring you stay ahead in the
-      competitive digital landscape. Whether it's optimizing your IT
-      infrastructure, creating engaging digital experiences, or enhancing your
-      online presence, FlexStrive is here to help you succeed.\</div>
-
+    text: >
+      FlexStrive is your trusted partner in driving digital transformation and
+      achieving business excellence. Our comprehensive services encompass IT
+      consultancy focused on development and programming, innovative game and
+      application development through FlexStrive Studio, and strategic eCommerce
+      solutions provided by FlexiStrive. We are dedicated to delivering
+      flexible, customized solutions that cater to your unique business needs,
+      ensuring you stay ahead in the competitive digital landscape. Whether it's
+      optimizing your IT infrastructure, creating engaging digital experiences,
+      or enhancing your online presence, FlexStrive is here to help you succeed.
     badge:
       label: Key Benefits
       color: text-primary
