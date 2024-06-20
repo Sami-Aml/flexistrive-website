@@ -69,7 +69,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
-            textAlign: left
+            textAlign: center
         image:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
