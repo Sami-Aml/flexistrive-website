@@ -397,7 +397,7 @@ sections:
 
     badge:
       label: GET IN TOUCH
-      color: text-primary
+      color: text-dark
       type: Badge
       styles:
         self:
