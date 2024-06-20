@@ -248,7 +248,7 @@ sections:
         flexDirection: row-reverse
     type: GenericSection
   - title:
-      text: Social Media Management
+      text: FlexiStrive
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
