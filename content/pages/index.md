@@ -204,7 +204,7 @@ sections:
     badge:
       type: Badge
       label: development studio
-      color: text-primary
+      color: text-dark
     colors: bg-light-fg-dark
     styles:
       self:
