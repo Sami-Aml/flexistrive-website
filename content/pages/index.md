@@ -109,7 +109,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: FlexiStrive
+      - title: FlexiStrive Business
         subtitle: eCommerce Solutions and Digital Strategy
         text: ''
         image:
