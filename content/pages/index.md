@@ -255,9 +255,9 @@ sections:
     subtitle: Digital Solutions and Strategies
     text: >
       FlexiStrive specializes in helping businesses establish and grow their
-      online presence. We offer comprehensive eCommerce solutions, including
-      website development, digital marketing, and strategic consulting, to help
-      you succeed in the digital marketplace.
+      online presence. We offer comprehensive solutions, including website
+      development, eCommerce, digital marketing, and strategic consulting, to
+      help you succeed in the digital marketplace.
     actions:
       - label: Get started
         url: /
