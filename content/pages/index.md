@@ -8,10 +8,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Flexibility is at the Core of What We Do
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      At FlexStrive, we understand that every business is unique. That's why we
+      offer flexible, tailored solutions that adapt to your specific needs.
+      Whether you're looking to enhance your online presence, streamline your
+      operations, or boost your marketing efforts, our team is here to help you
+      achieve your goals with agility and precision.
+
     actions:
       - label: Get started
         altText: ''
