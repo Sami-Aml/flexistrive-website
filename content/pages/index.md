@@ -223,7 +223,7 @@ sections:
           - pr-3
   - title:
       text: FlexStrive Consulting
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: IT Consultancy Services
     text: >
