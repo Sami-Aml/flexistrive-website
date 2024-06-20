@@ -111,11 +111,7 @@ sections:
         type: FeaturedItem
       - title: FlexiStrive
         subtitle: eCommerce Solutions and Digital Strategy
-        text: >
-          FlexiStrive specializes in helping businesses establish and grow their
-          online presence. We offer comprehensive eCommerce solutions, including
-          website development, digital marketing, and strategic consulting, to
-          help you succeed in the digital marketplace.
+        text: ''
         image:
           url: /images/icon3.svg
           altText: Featured icon three
