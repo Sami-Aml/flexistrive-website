@@ -110,7 +110,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: FlexiStrive Business
-        subtitle: eCommerce Solutions and Digital Strategy
+        subtitle: Digital Solutions and Strategies
         text: ''
         image:
           url: /images/icon3.svg
