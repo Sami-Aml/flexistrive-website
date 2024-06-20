@@ -396,6 +396,9 @@ sections:
       label: GET IN TOUCH
       color: text-primary
       type: Badge
+      styles:
+        self:
+          textAlign: center
     colors: bg-light-fg-dark
     type: GenericSection
     actions: []
