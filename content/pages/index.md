@@ -339,7 +339,9 @@ sections:
       text: Contact Us
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: >-
+      We're here to help you succeed. Reach out to us for any inquiries,
+      support, or to start your next project with FlexStrive.
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
