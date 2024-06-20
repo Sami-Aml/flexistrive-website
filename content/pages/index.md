@@ -63,7 +63,7 @@ sections:
     items:
       - type: FeaturedItem
         title: FlexStrive Consulting
-        subtitle: Quality IT Consultancy Service
+        subtitle: Quality IT Consultancy Services
         text: ''
         actions:
           - type: Button
