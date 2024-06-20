@@ -82,7 +82,7 @@ sections:
         subtitle: Game and Application Development
         text: ''
         image:
-          url: /images/FlexStrive_Logo_80.png
+          url: /images/FlexStrive_Logo_100.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
