@@ -45,7 +45,7 @@ sections:
     items:
       - type: FeaturedItem
         title: FlexStrive Consulting
-        subtitle: Provides IT Consultancy Services
+        subtitle: Providing IT Consultancy Services
         text: ''
         actions:
           - type: Button
