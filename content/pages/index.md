@@ -74,7 +74,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/FlexStrive_Logo_Small (1).png
+          url: /images/FlexStrive_Logo_Small-100.png
           styles:
             self:
               borderRadius: x-large
