@@ -274,6 +274,7 @@ sections:
         iconPosition: right
         style: primary
         type: Link
+        altText: Learn more about FlexiStrive projects and clients
     media:
       url: /images/9907655.jpg
       altText: Fun feature preview
