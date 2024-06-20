@@ -14,7 +14,7 @@ sections:
       team is here to help you achieve your goals with agility and precision.
     actions: []
     media:
-      url: /images/FlexStrive_Logo_Small (1).png
+      url: /images/2989869.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
