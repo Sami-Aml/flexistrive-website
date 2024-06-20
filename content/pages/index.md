@@ -107,7 +107,7 @@ sections:
         actions:
           - type: Button
             label: Learn more
-            altText: ''
+            altText: learn more about flexistrive studio
             url: '#FlexStriveStudio'
             showIcon: false
             icon: arrowRight
