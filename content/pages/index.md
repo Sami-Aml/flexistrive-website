@@ -108,7 +108,7 @@ sections:
           - type: Button
             label: Get started
             altText: ''
-            url: '#FlexStriveConsulting'
+            url: '#FlexStriveStudio'
             showIcon: false
             icon: arrowRight
             iconPosition: right
