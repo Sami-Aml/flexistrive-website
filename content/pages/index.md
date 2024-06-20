@@ -273,7 +273,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/FLEXISTRIVE-01.png
+      url: /images/9907655.jpg
       altText: Fun feature preview
       type: ImageBlock
     badge:
