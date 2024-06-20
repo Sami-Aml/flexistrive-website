@@ -287,7 +287,7 @@ sections:
     type: GenericSection
     elementId: FlexiStrive
   - title:
-      text: Grow your business 10x faster
+      text: Comprehensive Digital Solutions
       color: text-dark
       styles:
         self:
