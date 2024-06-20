@@ -274,7 +274,7 @@ sections:
           - pr-3
   - title:
       text: FlexiStrive
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: Digital Solutions and Strategies
     text: >
