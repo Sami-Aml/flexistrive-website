@@ -407,7 +407,7 @@ sections:
         textAlign: center
       self:
         flexDirection: row
-        alignItems: flex-end
+        alignItems: center
         justifyContent: center
 seo:
   metaTitle: Home - Demo site
