@@ -342,13 +342,16 @@ sections:
     subtitle: >-
       We're here to help you succeed. Reach out to us for any inquiries,
       support, or to start your next project with FlexStrive.
-    text: |
-      **Address:**
-      Boulevard Bischoffsheim 39/4
-      Brussels, Belgium
+    text: |+
+      *   **Address:**
+          Boulevard Bischoffsheim 39/4
+          Brussels, Belgium
 
-      **Email:**
-      <contact@flexistrive.com>
+      <!---->
+
+      *   **Email:**
+          [contact@flexistrive.com ](mailto:contact@flexistrive.com)
+
     badge:
       label: GET IN TOUCH
       color: text-primary
