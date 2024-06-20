@@ -293,7 +293,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: >-
+      Empowering Your with IT Consultancy, App & Game Development, and Digital
+      Strategies
     text: >
       FlexStrive is your trusted partner in driving digital transformation and
       achieving business excellence. Our comprehensive services encompass IT
