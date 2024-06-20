@@ -282,6 +282,7 @@ sections:
         alignItems: center
         flexDirection: row-reverse
     type: GenericSection
+    elementId: FlexStriveConsulting
   - title:
       text: FlexiStrive
       color: text-dark
