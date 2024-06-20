@@ -253,8 +253,10 @@ sections:
       type: TitleBlock
     subtitle: Increase your reach
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      FlexiStrive specializes in helping businesses establish and grow their
+      online presence. We offer comprehensive eCommerce solutions, including
+      website development, digital marketing, and strategic consulting, to help
+      you succeed in the digital marketplace.
     actions:
       - label: Get started
         url: /
