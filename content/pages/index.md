@@ -430,6 +430,7 @@ seo:
     work on your projects, FlexStrive is here to help you succeed.
   socialImage: /images/2989869.jpg
   type: Seo
-  metaTags: []
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---
