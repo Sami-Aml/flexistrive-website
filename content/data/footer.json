@@ -32,6 +32,6 @@
         }
     ],
     "copyrightText": "© 2024 FlexStrive. All rights reserved.\n",
-    "colors": "bg-dark-fg-light",
+    "colors": "bg-neutral-fg-dark",
     "type": "Footer"
 }
