@@ -250,8 +250,10 @@ sections:
       type: TitleBlock
     subtitle: Be in good company
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Our IT consulting services focus on development and programming. We help
+      businesses leverage technology to achieve their goals by providing expert
+      guidance and hands-on support to ensure your IT systems are efficient and
+      effective.
     actions:
       - label: Get started
         url: /
