@@ -248,7 +248,7 @@ sections:
       text: Business Consulting
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: IT Consultancy Services
     text: >
       Our IT consulting services focus on development and programming. We help
       businesses leverage technology to achieve their goals by providing expert
