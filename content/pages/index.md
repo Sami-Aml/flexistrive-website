@@ -137,7 +137,7 @@ sections:
           type: ImageBlock
         actions:
           - type: Button
-            label: Get started
+            label: Learn more
             altText: ''
             url: '#FlexiStrive'
             showIcon: false
