@@ -9,9 +9,6 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: >+
-      Effective Date: 20/06/2024
-
-
       ### 1. Introduction
 
 
