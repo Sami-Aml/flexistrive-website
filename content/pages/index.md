@@ -36,7 +36,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       text: Projects We Excel In
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
