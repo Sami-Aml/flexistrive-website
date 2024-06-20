@@ -385,9 +385,7 @@ sections:
       We're here to help you succeed. Reach out to us for any inquiries,
       support, or to start your next project with FlexStrive.
     text: |
-      **Email:**
-
-      \*\*\*\*<contact@flexistrive.com>
+      **Email us :** <contact@flexistrive.com>
     badge:
       label: GET IN TOUCH
       color: text-dark
