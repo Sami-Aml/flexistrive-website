@@ -138,6 +138,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
             textAlign: left
+            justifyContent: center
         type: FeaturedItem
     actions: []
     badge:
