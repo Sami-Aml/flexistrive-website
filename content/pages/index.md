@@ -338,12 +338,15 @@ sections:
       FlexStrive is your trusted partner in driving digital transformation and
       achieving business excellence. Our comprehensive services encompass IT
       consultancy focused on development and programming, innovative game and
-      application development through FlexStrive Studio, and strategic eCommerce
-      solutions provided by FlexiStrive. We are dedicated to delivering
+      application development through FlexStrive Studio, and digital solutions &
+      strategies provided by FlexiStrive. We are dedicated to delivering
       flexible, customized solutions that cater to your unique business needs,
       ensuring you stay ahead in the competitive digital landscape. Whether it's
-      optimizing your IT infrastructure, creating engaging digital experiences,
-      or enhancing your online presence, FlexStrive is here to help you succeed.
+      developing custom applications, websites, or games tailored to meet your
+      specific needs, optimizing your IT infrastructure, creating engaging
+      digital experiences, enhancing your online presence, or engaging with our
+      IT consultancy services and deploying a developer consultant to work on
+      your projects, FlexStrive is here to help you succeed.
     badge:
       label: Our Expertise
       color: text-dark
