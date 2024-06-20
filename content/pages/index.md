@@ -284,6 +284,8 @@ sections:
     styles:
       self:
         alignItems: center
+      text:
+        textAlign: justify
     type: GenericSection
     elementId: FlexiStrive
   - title:
