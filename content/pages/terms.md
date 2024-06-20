@@ -8,7 +8,7 @@ sections:
       text: Terms & Conditions
       color: text-dark
     subtitle: Be in good company
-    text: >+
+    text: >
       ## Terms and Conditions
 
 
@@ -115,8 +115,9 @@ sections:
 
       Address: Boulevard Bischoffsheim 39/4, 1000, Brussels, Belgium.
 
-      Email: <contact@flexistrive.com>
 
+
+      Email: <contact@flexistrive.com>
     actions: []
     media:
       type: ImageBlock
