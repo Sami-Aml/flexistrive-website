@@ -12,16 +12,7 @@ sections:
       At FlexStrive, we understand that every business is unique. That's why we
       offer flexible, tailored solutions that adapt to your specific needs. Our
       team is here to help you achieve your goals with agility and precision.
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: /images/FlexStrive_Logo_Small (1).png
       altText: Unblock your team boost your time to production preview
