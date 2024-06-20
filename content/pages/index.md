@@ -234,6 +234,7 @@ sections:
         iconPosition: right
         style: primary
         type: Link
+        altText: 'Lear about FlexStrive Consulting '
     media:
       url: /images/3301602.jpg
       altText: Dope design preview
