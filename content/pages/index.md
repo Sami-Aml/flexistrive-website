@@ -196,6 +196,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+        altText: Learn about FlexStrive studio projects
     media:
       type: ImageBlock
       url: /images/5370989.jpg
