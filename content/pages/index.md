@@ -346,7 +346,7 @@ sections:
       or enhancing your online presence, FlexStrive is here to help you succeed.
     badge:
       label: Our Expertise
-      color: text-primary
+      color: text-dark
       styles:
         self:
           textAlign: center
