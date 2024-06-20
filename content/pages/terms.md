@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Terms & Conditions
       color: text-dark
-    subtitle: Be in good company
+    subtitle: 'Last Updated : 20/06/2024'
     text: >
       ## Terms and Conditions
 
