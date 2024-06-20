@@ -87,7 +87,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: FlexStriveStudio
+      - title: FlexStrive Studio
         subtitle: Game and Application Development
         text: ''
         image:
