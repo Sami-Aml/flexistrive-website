@@ -5,29 +5,6 @@
         "type": "ImageBlock"
     },
     "text": "FlexStrive is a Belgian registered company : BE 0772.802.265\n\nAddress : Boulevard Bischoffsheim 39/4, 1000, Brussels, Belgium\n",
-    "secondaryLinks": {
-        "title": "Company",
-        "links": [
-            {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
     "socialLinks": [
         {
             "altText": "Email link",
