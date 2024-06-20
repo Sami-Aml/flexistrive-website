@@ -185,7 +185,7 @@ sections:
     actions:
       - type: Button
         label: Get started
-        url: /
+        url: '#contactUs'
         icon: arrowRight
         iconPosition: right
         style: secondary
