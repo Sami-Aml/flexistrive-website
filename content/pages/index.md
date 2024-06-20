@@ -96,8 +96,8 @@ sections:
         text: >
           At FlexStrive Studio, we create engaging games and innovative
           applications that captivate users and drive engagement. Our team of
-          developers and designers work collaboratively to bring your ideas to
-          life, from concept to launch.
+          developers and designers work collaboratively to bring ideas to life,
+          from concept to launch.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
