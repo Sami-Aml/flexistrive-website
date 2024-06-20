@@ -375,6 +375,9 @@ sections:
       text: Contact Us
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: center
     subtitle: >-
       We're here to help you succeed. Reach out to us for any inquiries,
       support, or to start your next project with FlexStrive.
