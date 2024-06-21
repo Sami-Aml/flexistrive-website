@@ -39,6 +39,8 @@ sections:
         flexDirection: row-reverse
       subtitle:
         textAlign: center
+      text:
+        textAlign: justify
 slug: SpaceRunnerTOC
 isDraft: false
 seo:
