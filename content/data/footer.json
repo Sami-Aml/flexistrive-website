@@ -29,6 +29,17 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
+        },
+        {
+            "type": "Link",
+            "label": "Space Runner TOC",
+            "altText": "Terms & Conditions of Space Runner",
+            "url": "/SpaceRunnerTOC",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "copyrightText": "© 2024 FlexStrive. All rights reserved.\n",
