@@ -33,7 +33,7 @@
         {
             "type": "Link",
             "label": "Space Runner TOC",
-            "altText": "",
+            "altText": "Terms & Conditions of Space Runner",
             "url": "/SpaceRunnerTOC",
             "showIcon": false,
             "icon": "arrowRight",
