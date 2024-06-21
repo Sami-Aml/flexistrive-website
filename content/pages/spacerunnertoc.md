@@ -40,7 +40,7 @@ sections:
       subtitle:
         textAlign: center
       text:
-        textAlign: center
+        textAlign: left
 slug: SpaceRunnerTOC
 isDraft: false
 seo:
