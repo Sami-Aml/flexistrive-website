@@ -31,7 +31,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Space Runner - Endless Runner Terms & Conditions
-  metaDescription: ''
+  metaDescription: >-
+    Terms & Conditions of the Game "Space Runner - Endless Runner". Mobile Game
+    made by FlexStrive Studio
   addTitleSuffix: true
   metaTags: []
 ---
