@@ -42,7 +42,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: 'Space runner: endless runner'
+      label: 'Space runner: endless runner BY FlexStrive Studio'
       color: text-primary
       styles:
         self:
