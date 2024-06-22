@@ -16,8 +16,13 @@ sections:
         title: 'Space Runner : Endless Runner'
         tagline: FlexStrive Studio
         subtitle: The Ultimate Cyberpunk Endless Runner Adventure
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Dive into the thrilling world of **Space Runner**, an exhilarating
+          endless runner game set in a stunning cyberpunk universe. Developed by
+          **FlexStrive Studio**, Space Runner combines fast-paced action,
+          challenging obstacles, and a visually captivating futuristic setting.
+          Prepare yourself for the ultimate running adventure that will keep you
+          on the edge of your seat!
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
