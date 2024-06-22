@@ -142,12 +142,6 @@ sections:
 
 
       **Get ready to run like never before. Welcome to Space Runner!**
-
-
-      ****
-
-
-      ****
     actions:
       - type: Button
         label: DOWNLOAD SPACE RUNNER NOW!
