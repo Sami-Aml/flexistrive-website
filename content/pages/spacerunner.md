@@ -11,6 +11,9 @@ sections:
         Space Runner: The Ultimate Cyberpunk Space Adventure – Endless Runner by
         FlexStrive Studio
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: 'Welcome to Space Runner: The Cyberpunk Space Endless Runner Game'
     text: >
       Dive into the thrilling world of **Space Runner**, an exhilarating endless
