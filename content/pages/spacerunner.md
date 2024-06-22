@@ -1,8 +1,8 @@
 ---
 type: PageLayout
 title: >-
-  Space Runner: The Ultimate Cyberpunk Endless Runner Adventure by FlexStrive
-  Studio
+  Space Runner: The Ultimate Cyberpunk Space Adventure – Endless Runner by
+  FlexStrive Studio
 sections:
   - type: GenericSection
     title:
