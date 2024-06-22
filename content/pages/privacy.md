@@ -133,6 +133,5 @@ seo:
   metaTitle: FlexiStrive Privacy Policy
   metaDescription: ''
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
   metaTags: []
 ---
