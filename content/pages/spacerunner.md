@@ -121,46 +121,7 @@ sections:
       text: ''
       color: text-dark
     subtitle: ''
-    text: >+
-      #### Key Features
-
-
-      *   **Endless Running Adventure:** Run through an infinite cyberpunk world
-      filled with neon lights, futuristic architecture, and intense challenges.
-
-
-      *   **Immersive Cyberpunk Setting:** Experience the rich, detailed
-      environment of a cyberpunk city, complete with high-tech gadgets and
-      visually stunning graphics.
-
-
-      *   **Challenging Obstacles:** Navigate through a variety of obstacles,
-      including moving barriers, falling debris, and other futuristic traps.
-
-
-      *   **Power-Ups and Collectibles:** Collect stars, premium currency, and
-      power-ups that grant you special abilities to enhance your running
-      experience.
-
-
-      *   **Intuitive Controls:** Slide down, jump, and switch between lanes
-      with ease using simple touch controls.
-
-
-      *   **Compete and Share:** Challenge your friends and share your high
-      scores on social media to prove who is the best runner.
-
-
-      #### Why You'll Love Space Runner
-
-
-      Space Runner is not just another endless runner game. It offers a unique
-      combination of fast-paced action, strategic obstacle navigation, and a
-      visually stunning cyberpunk world that sets it apart from the rest.
-      Whether you're a casual gamer looking for a quick thrill or a hardcore
-      runner aiming for high scores, Space Runner has something for everyone.
-
-
+    text: >
       #### Download Space Runner Today
 
 
@@ -174,24 +135,6 @@ sections:
 
 
       **Get ready to run like never before. Welcome to Space Runner!**
-
-
-      #### About FlexStrive Studio
-
-
-      FlexStrive Studio is dedicated to creating immersive and innovative gaming
-      experiences. With a passion for pushing the boundaries of mobile gaming,
-      our team of talented developers and designers work tirelessly to bring you
-      the best in entertainment. Space Runner is our latest offering, and we
-      can't wait for you to experience the thrill of the run.
-
-
-      **Contact Us**
-
-
-      Have questions or feedback? We'd love to hear from you! Reach out to us at
-      contact\@flexistrive.com.
-
     actions:
       - type: Button
         label: DOWNLOAD SPACE RUNNER NOW!
