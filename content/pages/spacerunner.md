@@ -35,7 +35,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: 'Space runner : best endless runner'
+      label: 'Space runner : endless runner'
       color: text-primary
     colors: bg-light-fg-dark
     styles:
