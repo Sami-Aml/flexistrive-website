@@ -47,7 +47,7 @@ sections:
     styles:
       self:
         alignItems: center
-        justifyContent: center
+        justifyContent: flex-end
   - type: GenericSection
     title:
       type: TitleBlock
