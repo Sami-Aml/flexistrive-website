@@ -51,7 +51,7 @@ sections:
       type: TitleBlock
       text: Terms & Conditions
       color: text-dark
-    subtitle: 'Last Updated : 20/06/2024'
+    subtitle: ''
     text: >+
       #### Key Features
 
