@@ -49,7 +49,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Terms & Conditions
+      text: ''
       color: text-dark
     subtitle: ''
     text: >+
