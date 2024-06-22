@@ -77,4 +77,5 @@ seo:
     expertise.
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/FlexStrive_Logo_Small (2).png
 ---
