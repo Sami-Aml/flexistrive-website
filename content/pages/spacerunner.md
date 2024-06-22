@@ -21,7 +21,7 @@ sections:
       the edge of your seat!
     actions:
       - type: Button
-        label: Get started
+        label: DOWNLOAD NOW!
         url: /
         icon: arrowRight
         iconPosition: right
