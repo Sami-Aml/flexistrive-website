@@ -22,6 +22,7 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+        justifyContent: center
       subtitle:
         textAlign: center
       text:
