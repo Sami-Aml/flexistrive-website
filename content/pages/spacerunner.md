@@ -49,7 +49,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Key Features
       color: text-primary
       styles:
         self:
