@@ -193,7 +193,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      altText: Dope design preview
+      altText: FlexStrive Studio Logo
       url: /images/FlexStrive_Logo_Small (2).png
     badge:
       type: Badge
