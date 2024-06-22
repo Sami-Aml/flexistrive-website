@@ -32,7 +32,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Learn about Space Runner
             altText: ''
             url: /spacerunner
             showIcon: false
