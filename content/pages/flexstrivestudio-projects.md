@@ -76,6 +76,5 @@ seo:
     diverse range of games, apps and experiences crafted with passion and
     expertise.
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
   metaTags: []
 ---
