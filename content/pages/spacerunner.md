@@ -45,7 +45,7 @@ sections:
       color: text-primary
       styles:
         self:
-          textAlign: center
+          textAlign: left
     colors: bg-neutral-fg-dark
     styles:
       self:
