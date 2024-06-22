@@ -15,7 +15,7 @@ sections:
       - type: FeaturedItem
         title: 'Space Runner : Endless Runner'
         tagline: FlexStrive Studio
-        subtitle: The utltimate
+        subtitle: The Ultimate Cyberpunk Endless Runner Adventure
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
