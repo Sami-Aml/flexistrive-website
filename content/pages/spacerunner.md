@@ -36,7 +36,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/space_runner_icon480.jpg
+      url: /images/space_runner_icon480.png
       altText: Fun feature preview
     badge:
       type: Badge
