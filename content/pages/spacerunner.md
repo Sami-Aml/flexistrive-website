@@ -12,19 +12,13 @@ sections:
         FlexStrive Studio
       color: text-dark
     subtitle: 'Welcome to Space Runner: The Cyberpunk Space Endless Runner Game'
-    text: >+
+    text: >
       Dive into the thrilling world of **Space Runner**, an exhilarating endless
       runner game set in a stunning cyberpunk universe. Developed by
       **FlexStrive Studio**, Space Runner combines fast-paced action,
       challenging obstacles, and a visually captivating futuristic setting.
       Prepare yourself for the ultimate running adventure that will keep you on
       the edge of your seat!
-
-
-      ####
-
-
-
     actions:
       - type: Button
         label: Get started
