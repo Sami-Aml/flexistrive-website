@@ -25,7 +25,7 @@ sections:
           on the edge of your seat!
         image:
           type: ImageBlock
-          url: /images/space_runner_icon432_front.png
+          url: /images/space_runner_icon480.jpg
           altText: Background alt text
           styles:
             self:
