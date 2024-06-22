@@ -7,7 +7,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 'Space Runner: The Ultimate Cyberpunk Space Adventure'
+      text: 'Space Runner: The Ultimate Cyberpunk Space Adventure Mobile Game'
       color: text-dark
       styles:
         self:
