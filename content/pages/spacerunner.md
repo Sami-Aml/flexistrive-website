@@ -29,7 +29,7 @@ sections:
         altText: 'Download Space Runner : Endless Runner'
       - type: Link
         label: Learn more
-        url: /
+        url: '#learnMoreAboutSpaceRunner'
         showIcon: true
         icon: arrowRight
         iconPosition: right
