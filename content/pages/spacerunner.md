@@ -7,9 +7,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: >-
-        Space Runner: The Ultimate Cyberpunk Space Adventure – Endless Runner by
-        FlexStrive Studio
+      text: 'Space Runner: The Ultimate Cyberpunk Space Adventure'
       color: text-dark
       styles:
         self:
