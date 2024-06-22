@@ -43,6 +43,9 @@ sections:
       type: Badge
       label: 'Space runner: endless runner'
       color: text-primary
+      styles:
+        self:
+          textAlign: center
     colors: bg-neutral-fg-dark
     styles:
       self:
