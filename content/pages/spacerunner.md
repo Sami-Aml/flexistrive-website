@@ -7,7 +7,9 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: >-
+        Space Runner: The Ultimate Cyberpunk Endless Runner Adventure by
+        FlexStrive Studio
       color: text-dark
     subtitle: Increase your reach
     text: >
