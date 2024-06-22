@@ -135,6 +135,5 @@ seo:
   metaTitle: FlexiStrive General Terms & Conditions
   metaDescription: ''
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
   metaTags: []
 ---
