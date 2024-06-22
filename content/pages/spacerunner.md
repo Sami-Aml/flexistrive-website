@@ -125,7 +125,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: DOWNLOAD SPACE RUNNER NOW!
         altText: ''
         url: /
         showIcon: false
