@@ -1,0 +1,64 @@
+{
+    "model": "GenericSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "TextArea with CTA",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Sections"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "",
+                    "color": "text-dark",
+                    "styles": null
+                },
+                "subtitle": "",
+                "text": "#### Key Features\n\n*   **Endless Running Adventure:** Run through an infinite cyberpunk world filled with neon lights, futuristic architecture, and intense challenges.\n\n*   **Immersive Cyberpunk Setting:** Experience the rich, detailed environment of a cyberpunk city, complete with high-tech gadgets and visually stunning graphics.\n\n*   **Challenging Obstacles:** Navigate through a variety of obstacles, including moving barriers, falling debris, and other futuristic traps.\n\n*   **Power-Ups and Collectibles:** Collect stars, premium currency, and power-ups that grant you special abilities to enhance your running experience.\n\n*   **Intuitive Controls:** Slide down, jump, and switch between lanes with ease using simple touch controls.\n\n*   **Compete and Share:** Challenge your friends and share your high scores on social media to prove who is the best runner.\n\n#### Why You'll Love Space Runner\n\nSpace Runner is not just another endless runner game. It offers a unique combination of fast-paced action, strategic obstacle navigation, and a visually stunning cyberpunk world that sets it apart from the rest. Whether you're a casual gamer looking for a quick thrill or a hardcore runner aiming for high scores, Space Runner has something for everyone.\n\n#### Download Space Runner Today\n\nJoin millions of players worldwide in the ultimate cyberpunk endless running adventure. Download Space Runner now and start your journey through the futuristic world of high-speed action and adventure.\n\nDon't miss out on the latest updates, news, and exclusive content! Follow us on social media and visit our official website for more information.\n\n**Get ready to run like never before. Welcome to Space Runner!**\n\n#### About FlexStrive Studio\n\nFlexStrive Studio is dedicated to creating immersive and innovative gaming experiences. With a passion for pushing the boundaries of mobile gaming, our team of talented developers and designers work tirelessly to bring you the best in entertainment. Space Runner is our latest offering, and we can't wait for you to experience the thrill of the run.\n\n**Contact Us**\n\nHave questions or feedback? We'd love to hear from you! Reach out to us at contact\\@flexistrive.com.\n\n",
+                "actions": [
+                    {
+                        "$$type": "Button",
+                        "label": "DOWNLOAD SPACE RUNNER NOW!",
+                        "altText": "Download the Mobile Game Space Runner : Endless Runner ",
+                        "url": "/",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "primary",
+                        "elementId": ""
+                    }
+                ],
+                "media": {
+                    "$$type": "ImageBlock",
+                    "url": null,
+                    "altText": "Dope design preview",
+                    "elementId": null,
+                    "styles": null
+                },
+                "badge": {
+                    "$$type": "Badge",
+                    "label": "",
+                    "color": "text-primary",
+                    "styles": null
+                },
+                "elementId": "learnMoreAboutSpaceRunner",
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "alignItems": "center",
+                        "flexDirection": "row-reverse",
+                        "justifyContent": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/generic-section-textarea-with-cta-97c0.png"
+        }
+    ]
+}
