@@ -1,7 +1,7 @@
 {
     "favicon": "/images/FlexStrive_Logo_160.jpg",
     "footer": "content/data/footer.json",
-    "titleSuffix": " - FlexiStrive & FlexStrive ",
+    "titleSuffix": "FlexiStrive & FlexStrive ",
     "defaultSocialImage": "/images/FlexStrive_Logo_Small (2).png",
     "type": "Config",
     "header": "content/data/header.json",
