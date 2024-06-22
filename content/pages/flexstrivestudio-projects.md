@@ -13,7 +13,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: 'Space Runner : Endless Runner'
         tagline: FlexStrive Studio
         subtitle: This is the item subtitle
         text: |
