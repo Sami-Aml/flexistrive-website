@@ -8,7 +8,7 @@ sections:
     title:
       type: TitleBlock
       text: >-
-        Space Runner: The Ultimate Cyberpunk Space Endless Runner Adventure by
+        Space Runner: The Ultimate Cyberpunk Space Adventure – Endless Runner by
         FlexStrive Studio
       color: text-dark
     subtitle: Increase your reach
