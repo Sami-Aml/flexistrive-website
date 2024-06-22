@@ -125,6 +125,7 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+        justifyContent: center
 slug: privacy
 isDraft: false
 seo:
