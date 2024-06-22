@@ -27,7 +27,7 @@ sections:
         iconPosition: right
         style: secondary
       - type: Link
-        label: See Tutorials
+        label: Explore our other projects
         url: /
         showIcon: true
         icon: arrowRight
