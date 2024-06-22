@@ -11,7 +11,7 @@ sections:
         Space Runner: The Ultimate Cyberpunk Space Adventure – Endless Runner by
         FlexStrive Studio
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: 'Welcome to Space Runner: The Cyberpunk Space Endless Runner Game'
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
