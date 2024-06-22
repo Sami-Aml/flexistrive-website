@@ -27,7 +27,7 @@ sections:
         iconPosition: right
         style: secondary
       - type: Link
-        label: See our other projects
+        label: Lear more
         url: /
         showIcon: true
         icon: arrowRight
