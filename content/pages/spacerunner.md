@@ -194,7 +194,7 @@ sections:
     media:
       type: ImageBlock
       altText: Dope design preview
-      url: /images/FlexStrive_Logo_Small (2).png
+      url: /images/FlexStrive_Logo_160.jpg
     badge:
       type: Badge
       label: ''
