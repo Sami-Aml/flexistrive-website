@@ -27,7 +27,7 @@ sections:
         iconPosition: right
         style: secondary
       - type: Link
-        label: Lear more
+        label: Learn more
         url: /
         showIcon: true
         icon: arrowRight
