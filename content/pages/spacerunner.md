@@ -52,112 +52,77 @@ sections:
       text: Terms & Conditions
       color: text-dark
     subtitle: 'Last Updated : 20/06/2024'
-    text: >
-      ### 1. Introduction
+    text: >+
+      #### Key Features
 
 
-      Welcome to FlexStrive/FlexiStrive. By accessing our website and using our
-      services, you agree to comply with and be bound by the following terms and
-      conditions. Please read these terms carefully before using our website.
+      *   **Endless Running Adventure:** Run through an infinite cyberpunk world
+      filled with neon lights, futuristic architecture, and intense challenges.
 
 
-      ### 2. Definitions
+      *   **Immersive Cyberpunk Setting:** Experience the rich, detailed
+      environment of a cyberpunk city, complete with high-tech gadgets and
+      visually stunning graphics.
 
 
-      *   **"We", "Us", "Our"** refers to FlexStrive, FlexiStrive, or FlexStrive
-      Studio.
-
-      *   **"You", "User"** refers to the individual or entity using our
-      website.
-
-      *   **"Website"** refers to
-      [www.flexistrive.com](http://www.flexistrive.com) and all subdomains.
+      *   **Challenging Obstacles:** Navigate through a variety of obstacles,
+      including moving barriers, falling debris, and other futuristic traps.
 
 
-      ### 3. Use of Website
+      *   **Power-Ups and Collectibles:** Collect stars, premium currency, and
+      power-ups that grant you special abilities to enhance your running
+      experience.
 
 
-      *   By accessing our website, you confirm that you are at least 18 years
-      old or have the permission of a parent or guardian.
-
-      *   You agree to use the website only for lawful purposes and in a way
-      that does not infringe the rights of, restrict, or inhibit anyone else's
-      use and enjoyment of the website.
+      *   **Intuitive Controls:** Slide down, jump, and switch between lanes
+      with ease using simple touch controls.
 
 
-      ### 4. Intellectual Property
+      *   **Compete and Share:** Challenge your friends and share your high
+      scores on social media to prove who is the best runner.
 
 
-      *   All content on this website, including text, graphics, logos, and
-      images, is the property of FlexStrive or its content suppliers and is
-      protected by copyright and other intellectual property laws.
-
-      *   You may not reproduce, distribute, or create derivative works from any
-      content on this website without our express written permission.
+      #### Why You'll Love Space Runner
 
 
-      ### 5. User Accounts
+      Space Runner is not just another endless runner game. It offers a unique
+      combination of fast-paced action, strategic obstacle navigation, and a
+      visually stunning cyberpunk world that sets it apart from the rest.
+      Whether you're a casual gamer looking for a quick thrill or a hardcore
+      runner aiming for high scores, Space Runner has something for everyone.
 
 
-      *   To access certain features of our website, you may be required to
-      create an account. You are responsible for maintaining the confidentiality
-      of your account information.
-
-      *   You agree to notify us immediately of any unauthorized use of your
-      account.
+      #### Download Space Runner Today
 
 
-      ### 6. Privacy
+      Join millions of players worldwide in the ultimate cyberpunk endless
+      running adventure. Download Space Runner now and start your journey
+      through the futuristic world of high-speed action and adventure.
 
 
-      *   Our \[Privacy Policy]\(link to privacy policy) explains how we
-      collect, use, and protect your personal information. By using our website,
-      you consent to the collection and use of your information as described in
-      our Privacy Policy.
+      Don't miss out on the latest updates, news, and exclusive content! Follow
+      us on social media and visit our official website for more information.
 
 
-      ### 7. Limitation of Liability
+      **Get ready to run like never before. Welcome to Space Runner!**
 
 
-      *   FlexStrive will not be liable for any direct, indirect, incidental,
-      consequential, or punitive damages arising out of your use of, or
-      inability to use, our website.
-
-      *   We do not warrant that the website will be uninterrupted or
-      error-free, and we are not responsible for any issues that may arise from
-      your use of the website.
+      #### About FlexStrive Studio
 
 
-      ### 8. Changes to Terms
+      FlexStrive Studio is dedicated to creating immersive and innovative gaming
+      experiences. With a passion for pushing the boundaries of mobile gaming,
+      our team of talented developers and designers work tirelessly to bring you
+      the best in entertainment. Space Runner is our latest offering, and we
+      can't wait for you to experience the thrill of the run.
 
 
-      *   We reserve the right to update these terms and conditions at any time
-      without notice. By continuing to use the website after any changes, you
-      agree to be bound by the updated terms.
+      **Contact Us**
 
 
-      ### 9. Governing Law
+      Have questions or feedback? We'd love to hear from you! Reach out to us at
+      contact\@flexistrive.com.
 
-
-      *   These terms and conditions are governed by and construed in accordance
-      with the laws of \[Your Country/State], and any disputes will be subject
-      to the exclusive jurisdiction of the courts of \[Your Country/State].
-
-
-      ### 10. Contact Information
-
-
-      If you have any questions about these terms and conditions, please contact
-      us at:
-
-
-      **FlexStrive**
-
-
-      Address: Boulevard Bischoffsheim 39/4, 1000, Brussels, Belgium.
-
-
-      Email: <contact@flexistrive.com>
     actions: []
     media:
       type: ImageBlock
