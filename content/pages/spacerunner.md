@@ -52,7 +52,7 @@ sections:
     colors: bg-neutral-fg-dark
     styles:
       self:
-        alignItems: flex-start
+        alignItems: center
         justifyContent: center
   - type: GenericSection
     title:
