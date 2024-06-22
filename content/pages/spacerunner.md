@@ -123,7 +123,16 @@ sections:
       Have questions or feedback? We'd love to hear from you! Reach out to us at
       contact\@flexistrive.com.
 
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: ImageBlock
       altText: Dope design preview
