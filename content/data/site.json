@@ -4,5 +4,10 @@
     "titleSuffix": " - FlexiStrive & FlexStrive ",
     "defaultSocialImage": "/images/FlexStrive_Logo_Small (2).png",
     "type": "Config",
-    "header": "content/data/header.json"
+    "header": "content/data/header.json",
+    "defaultMetaTags": [
+        {
+            "type": "MetaTag"
+        }
+    ]
 }
