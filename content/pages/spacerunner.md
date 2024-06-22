@@ -226,4 +226,5 @@ seo:
     thrilling running action!
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/space_runner_icon428.jpg
 ---
