@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: Some of FlexStrive's projects
     items:
       - type: FeaturedItem
         title: 'Space Runner : Endless Runner'
