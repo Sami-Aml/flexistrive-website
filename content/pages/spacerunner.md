@@ -13,7 +13,7 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: justify
+          textAlign: left
     subtitle: 'Welcome to Space Runner: The Cyberpunk Space Endless Runner Game'
     text: >
       Dive into the thrilling world of **Space Runner**, an exhilarating endless
