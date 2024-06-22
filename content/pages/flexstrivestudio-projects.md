@@ -69,8 +69,10 @@ seo:
   type: Seo
   metaTitle: Some of FlexStrive Studio's projects
   metaDescription: >-
-    Presenting you some of the great projets we have worked on, in the likes of
-    the amazing mobile game Space Runner : Endless Runner and many more
+    Discover FlexStrive Studio's impressive portfolio of projects, featuring
+    Space Runner: Endless Runner and other innovative creations. Explore our
+    diverse range of games, apps and experiences crafted with passion and
+    expertise.
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
