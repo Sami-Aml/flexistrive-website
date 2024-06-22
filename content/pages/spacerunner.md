@@ -46,8 +46,8 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: >-
-    Space Runner: The Ultimate Cyberpunk Endless Runner Adventure by FlexStrive
-    Studio
+    Space Runner: The Ultimate Cyberpunk Space Adventure – Endless Runner by
+    FlexStrive Studio
   metaDescription: >-
     Experience the ultimate cyberpunk endless runner adventure with Space Runner
     by FlexStrive Studio. Navigate through a stunning futuristic world, overcome
