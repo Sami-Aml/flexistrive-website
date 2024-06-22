@@ -17,6 +17,5 @@ seo:
     challenging obstacles, and collect power-ups in this fast-paced mobile game.
     Download now and join the thrilling running action!
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
   metaTags: []
 ---
