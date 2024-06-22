@@ -1,8 +1,8 @@
 {
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/FlexStrive_Logo_160.jpg",
     "footer": "content/data/footer.json",
-    "titleSuffix": "Theme Demo",
-    "defaultSocialImage": "/images/main-hero.jpg",
+    "titleSuffix": "",
+    "defaultSocialImage": "/images/FlexStrive_Logo_160.jpg",
     "type": "Config",
     "header": "content/data/header.json"
 }
