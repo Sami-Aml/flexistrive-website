@@ -32,7 +32,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: More about Space Runner
+            label: Learn about Space Runner
             altText: Learn more about the Space Runner mobile game
             url: /spacerunner
             showIcon: false
