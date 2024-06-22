@@ -33,7 +33,7 @@ sections:
         actions:
           - type: Button
             label: Learn about Space Runner
-            altText: ''
+            altText: Learn about Space Runner
             url: /spacerunner
             showIcon: false
             icon: arrowRight
