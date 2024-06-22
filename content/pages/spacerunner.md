@@ -27,7 +27,7 @@ sections:
         iconPosition: right
         style: secondary
       - type: Link
-        label: Explore our other projects
+        label: See our other projects
         url: /
         showIcon: true
         icon: arrowRight
