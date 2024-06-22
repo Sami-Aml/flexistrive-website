@@ -192,7 +192,7 @@ sections:
         altText: 'Contact us to get started '
       - type: Link
         label: Learn about our projects
-        url: /projects
+        url: /FlexStriveStudio-projects
         showIcon: true
         icon: arrowRight
         iconPosition: right
