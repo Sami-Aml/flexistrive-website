@@ -54,7 +54,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: Learn more about Space Runner
     items:
       - type: FeaturedItem
         title: Feature Item One
