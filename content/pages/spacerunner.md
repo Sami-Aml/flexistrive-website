@@ -53,7 +53,7 @@ sections:
       text: ''
       color: text-dark
     subtitle: ''
-    text: >+
+    text: >
       #### Key Features
 
 
@@ -91,39 +91,6 @@ sections:
       visually stunning cyberpunk world that sets it apart from the rest.
       Whether you're a casual gamer looking for a quick thrill or a hardcore
       runner aiming for high scores, Space Runner has something for everyone.
-
-
-      #### Download Space Runner Today
-
-
-      Join millions of players worldwide in the ultimate cyberpunk endless
-      running adventure. Download Space Runner now and start your journey
-      through the futuristic world of high-speed action and adventure.
-
-
-      Don't miss out on the latest updates, news, and exclusive content! Follow
-      us on social media and visit our official website for more information.
-
-
-      **Get ready to run like never before. Welcome to Space Runner!**
-
-
-      #### About FlexStrive Studio
-
-
-      FlexStrive Studio is dedicated to creating immersive and innovative gaming
-      experiences. With a passion for pushing the boundaries of mobile gaming,
-      our team of talented developers and designers work tirelessly to bring you
-      the best in entertainment. Space Runner is our latest offering, and we
-      can't wait for you to experience the thrill of the run.
-
-
-      **Contact Us**
-
-
-      Have questions or feedback? We'd love to hear from you! Reach out to us at
-      contact\@flexistrive.com.
-
     actions:
       - type: Button
         label: DOWNLOAD SPACE RUNNER NOW!
