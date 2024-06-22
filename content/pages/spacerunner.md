@@ -34,7 +34,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-        altText: Lear more about Space Runner
+        altText: Learn more about Space Runner
     media:
       type: ImageBlock
       url: /images/space_runner_icon428.jpg
