@@ -165,61 +165,7 @@ sections:
       text: ''
       color: text-dark
     subtitle: ''
-    text: >+
-      #### Key Features
-
-
-      *   **Endless Running Adventure:** Run through an infinite cyberpunk world
-      filled with neon lights, futuristic architecture, and intense challenges.
-
-
-      *   **Immersive Cyberpunk Setting:** Experience the rich, detailed
-      environment of a cyberpunk city, complete with high-tech gadgets and
-      visually stunning graphics.
-
-
-      *   **Challenging Obstacles:** Navigate through a variety of obstacles,
-      including moving barriers, falling debris, and other futuristic traps.
-
-
-      *   **Power-Ups and Collectibles:** Collect stars, premium currency, and
-      power-ups that grant you special abilities to enhance your running
-      experience.
-
-
-      *   **Intuitive Controls:** Slide down, jump, and switch between lanes
-      with ease using simple touch controls.
-
-
-      *   **Compete and Share:** Challenge your friends and share your high
-      scores on social media to prove who is the best runner.
-
-
-      #### Why You'll Love Space Runner
-
-
-      Space Runner is not just another endless runner game. It offers a unique
-      combination of fast-paced action, strategic obstacle navigation, and a
-      visually stunning cyberpunk world that sets it apart from the rest.
-      Whether you're a casual gamer looking for a quick thrill or a hardcore
-      runner aiming for high scores, Space Runner has something for everyone.
-
-
-      #### Download Space Runner Today
-
-
-      Join millions of players worldwide in the ultimate cyberpunk endless
-      running adventure. Download Space Runner now and start your journey
-      through the futuristic world of high-speed action and adventure.
-
-
-      Don't miss out on the latest updates, news, and exclusive content! Follow
-      us on social media and visit our official website for more information.
-
-
-      **Get ready to run like never before. Welcome to Space Runner!**
-
-
+    text: >
       #### About FlexStrive Studio
 
 
@@ -234,8 +180,7 @@ sections:
 
 
       Have questions or feedback? We'd love to hear from you! Reach out to us at
-      contact\@flexistrive.com.
-
+      <contact@flexistrive.com>.
     actions:
       - type: Button
         label: DOWNLOAD SPACE RUNNER NOW!
