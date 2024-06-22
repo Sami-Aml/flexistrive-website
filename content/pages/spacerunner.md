@@ -26,6 +26,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: 'Download Space Runner : Endless Runner'
       - type: Link
         label: Learn more
         url: /
