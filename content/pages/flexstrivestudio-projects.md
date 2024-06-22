@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Some of Our Projects
+      text: Our Work
       color: text-primary
       styles:
         self:
