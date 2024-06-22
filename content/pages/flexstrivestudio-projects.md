@@ -67,7 +67,9 @@ slug: FlexStriveStudio-projects
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Some of FlexStrive Studio's projects
+  metaTitle: >-
+    Explore FlexStrive Studio's Projects – Including Space Runner: Endless
+    Runner and More
   metaDescription: >-
     Discover FlexStrive Studio's impressive portfolio of projects, featuring
     Space Runner: Endless Runner and other innovative creations. Explore our
