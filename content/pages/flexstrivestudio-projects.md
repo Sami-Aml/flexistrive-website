@@ -68,7 +68,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Some of FlexStrive Studio's projects
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: >-
+    Presenting you some of the great projets we have worked on, in the likes of
+    the amazing mobile game Space Runner : Endless Runner and many more
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
