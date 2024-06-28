@@ -14,12 +14,15 @@ sections:
           textAlign: left
     subtitle: 'Welcome to Space Runner: The Cyberpunk Space Endless Runner Game'
     text: >
-      Dive into the thrilling world of **Space Runner**, an exhilarating endless
-      runner game set in a stunning cyberpunk universe. Developed by
-      **FlexStrive Studio**, Space Runner combines fast-paced action,
-      challenging obstacles, and a visually captivating futuristic setting.
-      Prepare yourself for the ultimate running adventure that will keep you on
-      the edge of your seat!
+      Dive into the exhilarating universe of **Space Runner**, the ultimate
+      **endless runner** game set in a breathtaking **cyberpunk cosmos**.
+      Developed by **FlexStrive Studio**, Space Runner seamlessly blends
+      **fast-paced action** with **fun**, **intuitive gameplay**. Navigate
+      through **challenging obstacles**, complete numerous **missions**, and
+      unlock exciting **upgrades**, all while immersing yourself in a **unique
+      ambiance** and **visually stunning futuristic space environment**. Prepare
+      for the ultimate running adventure that will keep you on the edge of your
+      seat!
     actions:
       - type: Button
         label: DOWNLOAD NOW!
@@ -58,44 +61,78 @@ sections:
       text: ''
       color: text-dark
     subtitle: ''
-    text: >
+    text: >+
       #### Key Features
 
 
-      *   **Endless Running Adventure:** Run through an infinite cyberpunk world
-      filled with neon lights, futuristic architecture, and intense challenges.
+      **Run, jump, slide, spin, and fly through space** to become the greatest
+      Space Runner in the universe! Immerse yourself in this thrilling 3D world
+      with a unique cyberpunk space vibe and a Runner who looks just like you.
 
 
-      *   **Immersive Cyberpunk Setting:** Experience the rich, detailed
-      environment of a cyberpunk city, complete with high-tech gadgets and
-      visually stunning graphics.
+      **Dodge obstacles, meteors, and Ro-bombs** that aim to halt your rise!
+      Complete thrilling missions, collect Runner trophies and rewards, and
+      upgrade your countless bonuses.
 
 
-      *   **Challenging Obstacles:** Navigate through a variety of obstacles,
-      including moving barriers, falling debris, and other futuristic traps.
+      **Collect stars and crystals** during your run to unlock characters,
+      enhance your skills, and boost your power-ups.
 
 
-      *   **Power-Ups and Collectibles:** Collect stars, premium currency, and
-      power-ups that grant you special abilities to enhance your running
-      experience.
+      **Pass through portals** to enter a black hole that teleports you into
+      space, where you can stock up on stars while flying and spinning, but
+      watch out for meteors.
 
 
-      *   **Intuitive Controls:** Slide down, jump, and switch between lanes
-      with ease using simple touch controls.
+      **Push your skills to the limit** in this arcade adventure for kids and
+      adults looking for a simple game with exceptional graphics that will
+      entertain you for hours!
 
 
-      *   **Compete and Share:** Challenge your friends and share your high
-      scores on social media to prove who is the best runner.
+      **Exciting Features:**
 
 
-      #### Why You'll Love Space Runner
+      ★ **Dash with your Runner** and overcome all obstacles and challenges!
 
 
-      Space Runner is not just another endless runner game. It offers a unique
-      combination of fast-paced action, strategic obstacle navigation, and a
-      visually stunning cyberpunk world that sets it apart from the rest.
-      Whether you're a casual gamer looking for a quick thrill or a hardcore
-      runner aiming for high scores, Space Runner has something for everyone.
+      ★ **Crash the Ro-bombs** chasing you to sabotage your run!
+
+
+      ★ **Pass through portals** to fly and spin through space!
+
+
+      ★ **Stunning and adjustable HD graphics** for an immersive experience!
+
+
+      ★ **Run through futuristic landscapes** under the beautiful Milky Way sky!
+
+
+      ★ **Enjoy the captivating cyberpunk atmosphere!**
+
+
+      ★ **Collect and use power-ups** to give yourself an advantage!
+
+
+      ★ **Upgrade and boost** your power-ups and skills!
+
+
+      ★ **Unlock a variety of characters** to enhance your gameplay!
+
+
+      ★ **Take on challenges and accumulate Runner trophies!**
+
+
+      ★ **Level up by playing**, unlock rewards, and increase your score
+      multiplier!
+
+
+      ★ **Become the greatest Runner** in the universe of all time!
+
+
+      This free game guarantees endless fun. Take on the mission at hand: level
+      up, win all the Runner trophies, break all records, and become the
+      greatest Space Runner of all time! Join the game now!
+
     actions:
       - type: Button
         label: DOWNLOAD SPACE RUNNER NOW!
@@ -127,23 +164,79 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
+      #### Why You'll Love Space Runner
+
+
+      Space Runner isn't just another endless runner game—it's a free,
+      action-packed adventure that guarantees endless fun and excitement. Here’s
+      why Space Runner stands out:
+
+
+      *   **Unique Gameplay**: Enjoy a unique blend of fast-paced action and
+      strategic obstacle navigation.
+
+
+      *   **Stunning Visuals**: Immerse yourself in a visually stunning
+      cyberpunk space world, crafted to captivate your senses.
+
+
+      *   **For Every Gamer**: Whether you're a casual player looking for a
+      quick thrill or a hardcore gamer aiming for high scores, Space Runner
+      offers something for everyone.
+
+
+      Embark on your mission: level up, win all the coveted Runner trophies,
+      shatter records, and become the greatest Space Runner of all time! Join
+      the adventure now and experience the best endless runner game in the
+      cyberpunk universe.
+    actions:
+      - type: Button
+        label: GET SPACE RUNNER FOR FREE NOW!
+        altText: 'Download the free Mobile Game Space Runner : Endless Runner '
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    media:
+      type: ImageBlock
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    elementId: learnMoreAboutSpaceRunner
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+        justifyContent: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
+    subtitle: ''
+    text: >
       #### Download Space Runner Today
 
 
-      Join millions of players worldwide in the ultimate cyberpunk endless
-      running adventure. Download Space Runner now and start your journey
-      through the futuristic world of high-speed action and adventure.
+      The ultimate cyberpunk endless running adventure awaits you. Download
+      Space Runner now and start your journey through the futuristic world of
+      high-speed action, challenge, beauty and adventure.
 
 
-      Don't miss out on the latest updates, news, and exclusive content! Follow
-      us on social media and visit our official website for more information.
+      **Get ready to run like never before. Embrace your destiny and become the
+      greatest Space Runner of the Universe.** 
 
 
-      **Get ready to run like never before. Welcome to Space Runner!**
+      **Play Space Runner for free now!**
     actions:
       - type: Button
-        label: DOWNLOAD SPACE RUNNER NOW!
-        altText: 'Download the Mobile Game Space Runner : Endless Runner '
+        label: PLAY SPACE RUNNER NOW!
+        altText: 'Play the Mobile Game Space Runner : Endless Runner '
         url: /
         showIcon: false
         icon: arrowRight
@@ -215,15 +308,12 @@ slug: spacerunner
 isDraft: false
 seo:
   type: Seo
-  metaTitle: >-
-    Space Runner: The Ultimate Cyberpunk Space Adventure Mobile Game – Endless
-    Runner by FlexStrive Studio
+  metaTitle: 'Space Runner: The Ultimate Cyberpunk Endless Runner Mobile Game'
   metaDescription: >-
-    Experience the ultimate cyberpunk space adventure mobile game with Space
-    Runner, the Endless Runner game by FlexStrive Studio. Navigate through a
-    stunning futuristic world, overcome challenging obstacles, and collect
-    power-ups in this fast-paced mobile game. Download now and join the
-    thrilling running action!
+    Dive into Space Runner by FlexStrive Studio, the ultimate cyberpunk endless
+    runner mobile game. Run, jump, and fly through space, dodge obstacles, and
+    collect rewards in a stunning 3D world. Join the adventure now for endless
+    fun and excitement!
   addTitleSuffix: true
   metaTags: []
   socialImage: /images/space_runner_icon428.jpg
