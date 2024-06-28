@@ -312,11 +312,10 @@ seo:
     Space Runner: The Ultimate Cyberpunk Space Adventure Mobile Game – Endless
     Runner by FlexStrive Studio
   metaDescription: >-
-    Experience the ultimate cyberpunk space adventure mobile game with Space
-    Runner, the Endless Runner game by FlexStrive Studio. Navigate through a
-    stunning futuristic world, overcome challenging obstacles, and collect
-    power-ups in this fast-paced mobile game. Download now and join the
-    thrilling running action!
+    Dive into Space Runner by FlexStrive Studio, the ultimate cyberpunk endless
+    runner mobile game. Run, jump, and fly through space, dodge obstacles, and
+    collect rewards in a stunning 3D world. Join the adventure now for endless
+    fun and excitement!
   addTitleSuffix: true
   metaTags: []
   socialImage: /images/space_runner_icon428.jpg
