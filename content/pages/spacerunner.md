@@ -15,13 +15,14 @@ sections:
     subtitle: 'Welcome to Space Runner: The Cyberpunk Space Endless Runner Game'
     text: >
       Dive into the exhilarating universe of **Space Runner**, the ultimate
-      endless runner game set in a breathtaking cyberpunk cosmos. Developed by
-      **FlexStrive Studio**, Space Runner seamlessly blends fast-paced action
-      with fun, intuitive gameplay. Navigate through challenging obstacles,
-      complete numerous missions, and unlock exciting upgrades, all while
-      immersing yourself in a unique ambiance and visually stunning futuristic
-      space environment. Prepare for the ultimate running adventure that will
-      keep you on the edge of your seat!
+      **endless runner** game set in a breathtaking **cyberpunk cosmos**.
+      Developed by **FlexStrive Studio**, Space Runner seamlessly blends
+      **fast-paced action** with **fun**, **intuitive gameplay**. Navigate
+      through **challenging obstacles**, complete numerous **missions**, and
+      unlock exciting **upgrades**, all while immersing yourself in a **unique
+      ambiance** and **visually stunning futuristic space environment**. Prepare
+      for the ultimate running adventure that will keep you on the edge of your
+      seat!
     actions:
       - type: Button
         label: DOWNLOAD NOW!
