@@ -308,9 +308,7 @@ slug: spacerunner
 isDraft: false
 seo:
   type: Seo
-  metaTitle: >-
-    Space Runner: The Ultimate Cyberpunk Space Adventure Mobile Game – Endless
-    Runner by FlexStrive Studio
+  metaTitle: 'Space Runner: The Ultimate Cyberpunk Endless Runner Mobile Game'
   metaDescription: >-
     Dive into Space Runner by FlexStrive Studio, the ultimate cyberpunk endless
     runner mobile game. Run, jump, and fly through space, dodge obstacles, and
