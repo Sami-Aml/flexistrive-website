@@ -17,12 +17,15 @@ sections:
         tagline: FlexStrive Studio
         subtitle: The Ultimate Cyberpunk Endless Runner Adventure
         text: >
-          Dive into the thrilling world of **Space Runner**, an exhilarating
-          endless runner game set in a stunning cyberpunk universe. Developed by
-          **FlexStrive Studio**, Space Runner combines fast-paced action,
-          challenging obstacles, and a visually captivating futuristic setting.
-          Prepare yourself for the ultimate running adventure that will keep you
-          on the edge of your seat!
+          Dive into the exhilarating universe of **Space Runner**, the ultimate
+          **endless runner mobile game** set in a breathtaking cyberpunk cosmos.
+          Developed by **FlexStrive Studio**, Space Runner seamlessly blends
+          fast-paced action with fun, intuitive gameplay. Navigate through
+          challenging obstacles, complete numerous missions, and unlock exciting
+          upgrades, all while immersing yourself in a unique ambiance and
+          visually stunning futuristic space environment. Prepare for the
+          ultimate running adventure that will keep you on the edge of your
+          seat!
         image:
           type: ImageBlock
           url: /images/space_runner_icon480.jpg
