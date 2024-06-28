@@ -191,7 +191,7 @@ sections:
       cyberpunk universe.
     actions:
       - type: Button
-        label: DOWNLOAD SPACE RUNNER NOW!
+        label: GET SPACE RUNNER FOR FREE NOW!
         altText: 'Download the Mobile Game Space Runner : Endless Runner '
         url: /
         showIcon: false
