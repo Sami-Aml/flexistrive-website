@@ -236,7 +236,7 @@ sections:
     actions:
       - type: Button
         label: PLAY SPACE RUNNER NOW!
-        altText: 'Download the Mobile Game Space Runner : Endless Runner '
+        altText: 'Play the Mobile Game Space Runner : Endless Runner '
         url: /
         showIcon: false
         icon: arrowRight
