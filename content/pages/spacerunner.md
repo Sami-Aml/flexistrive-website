@@ -62,40 +62,77 @@ sections:
       #### Key Features
 
 
-      *   **Endless Running Adventure:** Run through an infinite cyberpunk world
-      filled with neon lights, futuristic architecture, and intense challenges.
+      Run, jump, slide, spin, and fly through space to become the greatest Space
+      Runner in the universe!
 
 
-      *   **Immersive Cyberpunk Setting:** Experience the rich, detailed
-      environment of a cyberpunk city, complete with high-tech gadgets and
-      visually stunning graphics.
+      Embark as a Runner who looks just like you in a stunning 3D world with a
+      unique cyberpunk space vibe.
 
 
-      *   **Challenging Obstacles:** Navigate through a variety of obstacles,
-      including moving barriers, falling debris, and other futuristic traps.
+      Dodge obstacles, meteors, and Ro-bombs that aim to halt your rise!
+      Complete thrilling missions, collect Runner trophies and rewards, and
+      upgrade your countless bonuses.
 
 
-      *   **Power-Ups and Collectibles:** Collect stars, premium currency, and
-      power-ups that grant you special abilities to enhance your running
-      experience.
+      Collect stars and crystals during your run to unlock characters, enhance
+      your skills, and boost your power-ups.
 
 
-      *   **Intuitive Controls:** Slide down, jump, and switch between lanes
-      with ease using simple touch controls.
+      Pass through portals to enter a black hole that teleports you into space,
+      where you can stock up on stars while flying and spinning, but watch out
+      for meteors.
 
 
-      *   **Compete and Share:** Challenge your friends and share your high
-      scores on social media to prove who is the best runner.
+      Push your skills to the limit in this arcade adventure for kids and adults
+      looking for a simple game with exceptional graphics that will entertain
+      you for hours!
+
+
+      ★ Dash with your Runner and overcome all obstacles and challenges!
+
+      ★ Crash the Ro-bombs chasing you to sabotage your run!
+
+      ★ Pass through portals to fly and spin through space!
+
+      ★ Stunning and adjustable HD graphics!
+
+      ★ Run through futuristic landscapes under the beautiful Milky Way sky!
+
+      ★ Enjoy the cyberpunk atmosphere!
+
+      ★ Collect and use power-ups to give yourself an advantage!
+
+      ★ Upgrade and boost your power-ups and skills!
+
+      ★ Unlock a variety of characters!
+
+      ★ Take on challenges and accumulate Runner trophies!
+
+      ★ Level up by playing, unlock rewards, and increase your score multiplier!
+
+      ★ Become the greatest Runner in the universe of all time!
+
+
+      This free game guarantees endless fun. Take on the mission at hand: level
+      up, win all the Runner trophies, break all records, and become the
+      greatest Space Runner of all time! Join the game now!
 
 
       #### Why You'll Love Space Runner
 
 
-      Space Runner is not just another endless runner game. It offers a unique
-      combination of fast-paced action, strategic obstacle navigation, and a
-      visually stunning cyberpunk world that sets it apart from the rest.
-      Whether you're a casual gamer looking for a quick thrill or a hardcore
-      runner aiming for high scores, Space Runner has something for everyone.
+      Space Runner is not just another endless runner game, it's a free game
+      that guarantees endless fun. It offers a unique combination of fast-paced
+      action, strategic obstacle navigation, and a visually stunning spacial
+      cyberpunk world that sets it apart from the rest. Whether you're a casual
+      gamer looking for a quick thrill or a hardcore runner aiming for high
+      scores, Space Runner has something for everyone.
+
+
+      Take on the mission at hand: level up, win all the Runner trophies, break
+      all records, and become the greatest Space Runner of all time! Join the
+      game now!
     actions:
       - type: Button
         label: DOWNLOAD SPACE RUNNER NOW!
