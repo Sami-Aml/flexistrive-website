@@ -61,7 +61,7 @@ sections:
       text: ''
       color: text-dark
     subtitle: ''
-    text: >
+    text: >+
       #### Key Features
 
 
@@ -133,34 +133,6 @@ sections:
       up, win all the Runner trophies, break all records, and become the
       greatest Space Runner of all time! Join the game now!
 
-
-
-
-      #### Why You'll Love Space Runner
-
-
-      Space Runner isn't just another endless runner game—it's a free,
-      action-packed adventure that guarantees endless fun and excitement. Here’s
-      why Space Runner stands out:
-
-
-      *   **Unique Gameplay**: Enjoy a unique blend of fast-paced action and
-      strategic obstacle navigation.
-
-
-      *   **Stunning Visuals**: Immerse yourself in a visually stunning
-      cyberpunk space world, crafted to captivate your senses.
-
-
-      *   **For Every Gamer**: Whether you're a casual player looking for a
-      quick thrill or a hardcore gamer aiming for high scores, Space Runner
-      offers something for everyone.
-
-
-      Embark on your mission: level up, win all the coveted Runner trophies,
-      shatter records, and become the greatest Space Runner of all time! Join
-      the adventure now and experience the best endless runner game in the
-      cyberpunk universe.
     actions:
       - type: Button
         label: DOWNLOAD SPACE RUNNER NOW!
