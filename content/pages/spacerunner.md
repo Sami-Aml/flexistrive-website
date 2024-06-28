@@ -235,7 +235,7 @@ sections:
       **Play Space Runner for free now!**
     actions:
       - type: Button
-        label: DOWNLOAD SPACE RUNNER NOW!
+        label: PLAY SPACE RUNNER NOW!
         altText: 'Download the Mobile Game Space Runner : Endless Runner '
         url: /
         showIcon: false
