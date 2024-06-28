@@ -192,7 +192,7 @@ sections:
     actions:
       - type: Button
         label: GET SPACE RUNNER FOR FREE NOW!
-        altText: 'Download the Mobile Game Space Runner : Endless Runner '
+        altText: 'Download the free Mobile Game Space Runner : Endless Runner '
         url: /
         showIcon: false
         icon: arrowRight
