@@ -178,16 +178,16 @@ sections:
       #### Download Space Runner Today
 
 
-      Join millions of players worldwide in the ultimate cyberpunk endless
-      running adventure. Download Space Runner now and start your journey
-      through the futuristic world of high-speed action and adventure.
+      The ultimate cyberpunk endless running adventure awaits you. Download
+      Space Runner now and start your journey through the futuristic world of
+      high-speed action, challenge, beauty and adventure.
 
 
-      Don't miss out on the latest updates, news, and exclusive content! Follow
-      us on social media and visit our official website for more information.
+      **Get ready to run like never before. Embrace your destiny and become the
+      greatest Space Runner of the Universe.** 
 
 
-      **Get ready to run like never before. Welcome to Space Runner!**
+      **Play Space Runner for free now!**
     actions:
       - type: Button
         label: DOWNLOAD SPACE RUNNER NOW!
