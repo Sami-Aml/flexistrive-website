@@ -89,29 +89,41 @@ sections:
       you for hours!
 
 
-      ★ Dash with your Runner and overcome all obstacles and challenges!
+      *   ★ Dash with your Runner and overcome all obstacles and challenges!
 
-      ★ Crash the Ro-bombs chasing you to sabotage your run!
 
-      ★ Pass through portals to fly and spin through space!
+      *   ★ Crash the Ro-bombs chasing you to sabotage your run!
 
-      ★ Stunning and adjustable HD graphics!
 
-      ★ Run through futuristic landscapes under the beautiful Milky Way sky!
+      *   ★ Pass through portals to fly and spin through space!
 
-      ★ Enjoy the cyberpunk atmosphere!
 
-      ★ Collect and use power-ups to give yourself an advantage!
+      *   ★ Stunning and adjustable HD graphics!
 
-      ★ Upgrade and boost your power-ups and skills!
 
-      ★ Unlock a variety of characters!
+      *   ★ Run through futuristic landscapes under the beautiful Milky Way sky!
 
-      ★ Take on challenges and accumulate Runner trophies!
 
-      ★ Level up by playing, unlock rewards, and increase your score multiplier!
+      *   ★ Enjoy the cyberpunk atmosphere!
 
-      ★ Become the greatest Runner in the universe of all time!
+
+      *   ★ Collect and use power-ups to give yourself an advantage!
+
+
+      *   ★ Upgrade and boost your power-ups and skills!
+
+
+      *   ★ Unlock a variety of characters!
+
+
+      *   ★ Take on challenges and accumulate Runner trophies!
+
+
+      *   ★ Level up by playing, unlock rewards, and increase your score
+      multiplier!
+
+
+      *   ★ Become the greatest Runner in the universe of all time!
 
 
       This free game guarantees endless fun. Take on the mission at hand: level
