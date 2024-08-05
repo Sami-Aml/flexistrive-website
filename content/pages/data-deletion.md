@@ -15,7 +15,7 @@ sections:
       We value your privacy and are committed to ensuring that your personal
       information is handled securely and in compliance with all relevant
       regulations. Below are the steps and resources to request data deletion
-      and manage your account for our games (Space Runner, ...).
+      and manage your account for our games (such as Space Runner, ...).
 
 
       ## Unity Services
@@ -85,7 +85,7 @@ sections:
       us an email](mailto:contact@flexistrive.com)
 
 
-      Thank you for playing Space Runner!
+      Thank you for playing our games!
 
 
       © FlexStrive. All rights reserved.
