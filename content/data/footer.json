@@ -40,6 +40,17 @@
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "Data deletion",
+            "altText": "Learn how to manage or delete your data and accounts in our games and apps",
+            "url": "/data-deletion",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "copyrightText": "© 2024 FlexStrive. All rights reserved.\n",
