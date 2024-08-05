@@ -109,7 +109,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: 'Space Runner : Data Deletion & Disclosure Requests'
-  metaDescription: ' Data Deletion & Disclosure Requests information for games made by FlexStrive Studio'
+  metaDescription: ' Data Deletion & Disclosure Requests information for games made by FlexStrive Studio. We value your privacy and are committed to ensuring that your personal information is handled securely and in compliance with all relevant regulations. Below are the steps and resources to request data deletion and manage your account for our game, Space Runner.'
   addTitleSuffix: true
   metaTags: []
 ---
