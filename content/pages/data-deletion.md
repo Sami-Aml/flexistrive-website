@@ -9,111 +9,87 @@ sections:
       color: text-dark
     subtitle: 'Last Updated : 05/08/2024'
     text: >
-      ### 1. Introduction
+      # How to Delete Your Data and Account
 
 
-      Welcome to FlexStrive/FlexiStrive. By accessing our website and using our
-      services, you agree to comply with and be bound by the following terms and
-      conditions. Please read these terms carefully before using our website.
+      We value your privacy and are committed to ensuring that your personal
+      information is handled securely and in compliance with all relevant
+      regulations. Below are the steps and resources to request data deletion
+      and manage your account for our game, Space Runner.
 
 
-      ### 2. Definitions
+      ## Unity Services
 
 
-      *   **"We", "Us", "Our"** refers to FlexStrive, FlexiStrive, or FlexStrive
-      Studio.
-
-      *   **"You", "User"** refers to the individual or entity using our
-      website.
-
-      *   **"Website"** refers to
-      [www.flexistrive.com](http://www.flexistrive.com) and all subdomains.
+      Our game uses several Unity services, including Unity Analytics, Ads
+      Legacy, Authentication, and In-App Purchases. Here’s how you can manage
+      and delete your data associated with these services:
 
 
-      ### 3. Use of Website
+      ### Unity Player Account
 
 
-      *   By accessing our website, you confirm that you are at least 18 years
-      old or have the permission of a parent or guardian.
-
-      *   You agree to use the website only for lawful purposes and in a way
-      that does not infringe the rights of, restrict, or inhibit anyone else's
-      use and enjoyment of the website.
+      If you have a Unity Player Account, you can request data deletion and
+      disclosure through the following methods:
 
 
-      ### 4. Intellectual Property
-
-
-      *   All content on this website, including text, graphics, logos, and
-      images, is the property of FlexStrive or its content suppliers and is
-      protected by copyright and other intellectual property laws.
-
-      *   You may not reproduce, distribute, or create derivative works from any
-      content on this website without our express written permission.
-
-
-      ### 5. User Accounts
-
-
-      *   To access certain features of our website, you may be required to
-      create an account. You are responsible for maintaining the confidentiality
-      of your account information.
-
-      *   You agree to notify us immediately of any unauthorized use of your
+      - **Delete Unity Player Account**: Visit the [Unity Player Accounts
+      account deletion page](https://player-account.unity.com/) to delete your
       account.
 
+      - **Data Disclosure and Privacy Requests**: Contact Unity's privacy
+      support via email at
+      [unity-player-login-privacy@unity3d.com](mailto:unity-player-login-privacy@unity3d.com)
+      for data disclosure or other privacy-related requests.
 
-      ### 6. Privacy
-
-
-      *   Our \[Privacy Policy]\(link to privacy policy) explains how we
-      collect, use, and protect your personal information. By using our website,
-      you consent to the collection and use of your information as described in
-      our Privacy Policy.
-
-
-      ### 7. Limitation of Liability
+      - **Compliance with Unity Terms of Service**: Ensure you are aware of
+      Unity's [Terms of Service](https://unity.com/legal/terms-of-service).
 
 
-      *   FlexStrive will not be liable for any direct, indirect, incidental,
-      consequential, or punitive damages arising out of your use of, or
-      inability to use, our website.
-
-      *   We do not warrant that the website will be uninterrupted or
-      error-free, and we are not responsible for any issues that may arise from
-      your use of the website.
+      For additional privacy-related requests, you can also refer to the page
+      for [Unity Technologies
+      ApS](https://www.datarequests.org/company/unity3d/).
 
 
-      ### 8. Changes to Terms
+      ## Google Play Games Services
 
 
-      *   We reserve the right to update these terms and conditions at any time
-      without notice. By continuing to use the website after any changes, you
-      agree to be bound by the updated terms.
+      Our game integrates Google Play Games Services for authentication and
+      account management. To delete your Google Play Games account or data,
+      please follow the instructions provided by Google:
 
 
-      ### 9. Governing Law
+      - **Delete Google Play Games Account or Data**: Visit the [Google Play
+      Games data deletion support
+      page](https://support.google.com/googleplay/answer/9130646) for detailed
+      instructions on how to delete your account or data.
 
 
-      *   These terms and conditions are governed by and construed in accordance
-      with the laws of \[Your Country/State], and any disputes will be subject
-      to the exclusive jurisdiction of the courts of \[Your Country/State].
+      ## Privacy Policy
 
 
-      ### 10. Contact Information
+      Our Privacy Policy contains detailed information on how we handle your
+      data, what data we collect, and how you can manage your personal
+      information. Please ensure you have read and understood our Privacy
+      Policy, which is always available and prominently displayed on our
+      website.
 
 
-      If you have any questions about these terms and conditions, please contact
-      us at:
+      [Read our Privacy Policy](/SpaceRunnerTOC/)
 
 
-      **FlexStrive**
+      ## Contact Us
 
 
-      Address: Boulevard Bischoffsheim 39/4, 1000, Brussels, Belgium.
+      If you have any further questions or need assistance with data deletion,
+      please do not hesitate to contact us through our support channels.[Send
+      email](mailto:contact@flexistrive.com)
 
 
-      Email: <contact@flexistrive.com>
+      Thank you for playing Space Runner!
+
+
+      © FlexStrive. All rights reserved.
     actions: []
     media:
       type: ImageBlock
