@@ -111,6 +111,5 @@ seo:
   metaTitle: 'Space Runner : Data Deletion & Disclosure Requests'
   metaDescription: ' Data Deletion & Disclosure Requests information for games made by FlexStrive Studio'
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
   metaTags: []
 ---
