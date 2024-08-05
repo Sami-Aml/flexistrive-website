@@ -44,7 +44,7 @@
         {
             "type": "Link",
             "label": "Data deletion",
-            "altText": "",
+            "altText": "Learn how to manage or delete your data and accounts in our games and apps",
             "url": "/data-deletion",
             "showIcon": false,
             "icon": "arrowRight",
