@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Data Deletion & Disclosure requests
       color: text-dark
-    subtitle: 'Last Updated : 20/06/2024'
+    subtitle: 'Last Updated : 05/08/2024'
     text: >
       ### 1. Introduction
 
