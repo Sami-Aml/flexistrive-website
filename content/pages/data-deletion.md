@@ -12,10 +12,19 @@ sections:
       # How to Delete Your Data and Account
 
 
-      We value your privacy and are committed to ensuring that your personal
-      information is handled securely and in compliance with all relevant
-      regulations. Below are the steps and resources to request data deletion
-      and manage your account for our games (such as Space Runner, ...).
+      At FlexStrive Studio, we value your privacy and are committed to ensuring
+      that your personal information is handled securely and in compliance with
+      all relevant regulations. Below are the steps and resources to request
+      data deletion and manage your account for our games (such as Space Runner
+      : Endless Runner, ...).
+
+
+      ## From within the game
+
+
+      Go to the settings menu to delete your account and data from the game.
+      Click the 'delete data' button to delete your account and all your data.
+      Your data will be permanently deleted once you confirm.
 
 
       ## Unity Services
