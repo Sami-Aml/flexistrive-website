@@ -15,15 +15,15 @@ sections:
       We value your privacy and are committed to ensuring that your personal
       information is handled securely and in compliance with all relevant
       regulations. Below are the steps and resources to request data deletion
-      and manage your account for our game, Space Runner.
+      and manage your account for our games (Space Runner, ...).
 
 
       ## Unity Services
 
 
-      Our game uses several Unity services, including Unity Analytics, Ads
-      Legacy, Authentication, and In-App Purchases. Here’s how you can manage
-      and delete your data associated with these services:
+      Our game uses several Unity services, including Unity Analytics, Ads,
+      Authentication, and In-App Purchases. Here’s how you can manage and delete
+      your data associated with these services:
 
 
       ### Unity Player Account
@@ -33,16 +33,15 @@ sections:
       disclosure through the following methods:
 
 
-      - **Delete Unity Player Account**: Visit the [Unity Player Accounts
+      *   **Delete Unity Player Account**: Visit the [Unity Player Accounts
       account deletion page](https://player-account.unity.com/) to delete your
       account.
 
-      - **Data Disclosure and Privacy Requests**: Contact Unity's privacy
-      support via email at
-      [unity-player-login-privacy@unity3d.com](mailto:unity-player-login-privacy@unity3d.com)
-      for data disclosure or other privacy-related requests.
+      *   **Data Disclosure and Privacy Requests**: Contact Unity's privacy
+      support via email at <unity-player-login-privacy@unity3d.com> for data
+      disclosure or other privacy-related requests.
 
-      - **Compliance with Unity Terms of Service**: Ensure you are aware of
+      *   **Compliance with Unity Terms of Service**: Ensure you are aware of
       Unity's [Terms of Service](https://unity.com/legal/terms-of-service).
 
 
@@ -59,7 +58,7 @@ sections:
       please follow the instructions provided by Google:
 
 
-      - **Delete Google Play Games Account or Data**: Visit the [Google Play
+      *   **Delete Google Play Games Account or Data**: Visit the [Google Play
       Games data deletion support
       page](https://support.google.com/googleplay/answer/9130646) for detailed
       instructions on how to delete your account or data.
@@ -82,8 +81,8 @@ sections:
 
 
       If you have any further questions or need assistance with data deletion,
-      please do not hesitate to contact us through our support channels.[Send
-      email](mailto:contact@flexistrive.com)
+      please do not hesitate to contact us through our support channels. [Send
+      us an email](mailto:contact@flexistrive.com)
 
 
       Thank you for playing Space Runner!
