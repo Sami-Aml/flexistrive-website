@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Terms & Conditions
+      text: Data Deletion
       color: text-dark
     subtitle: 'Last Updated : 20/06/2024'
     text: >
